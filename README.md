@@ -1,2 +1,2 @@
 # signlanguage
-american sign language dataset
+american sign language detection using python
